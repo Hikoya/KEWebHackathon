@@ -1,3 +1,5 @@
+<b>Project documentation at https://hikoya.github.io/KEWebHackathon/</b> 
+
 Overview <br />
 This repo holds sourcecode for the backend used in the demo project for KEWeb Hackathon. Project is built on top of Flask, Pyrebase and Typesense.
 
